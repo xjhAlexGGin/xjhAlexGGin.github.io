@@ -1,3 +1,11 @@
+layout: post
+title: SVN的 安装与使用
+description: SVN的安装与使用。
+categories:
+- tools
+tags:
+- vagrant
+---
 ###SVN的安装与使用
 1.安装好SVN server打开Repositories创建一个CloudAtlas
 ![CL][1]
